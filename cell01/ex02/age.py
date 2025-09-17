@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 age = 23
 my_age = age + 42
 print(my_age)
