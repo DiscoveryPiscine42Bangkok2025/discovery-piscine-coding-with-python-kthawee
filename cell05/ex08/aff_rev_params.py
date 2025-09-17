@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import sys
 
 params = sys.argv[1:]
