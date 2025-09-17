@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import sys
 
 count = len(sys.argv) - 1
